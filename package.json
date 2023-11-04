@@ -1,0 +1,12 @@
+{
+  "name": "volview-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server --cors --port 9999",
+    "downloads": "npx http-server /home/paul/Downloads --cors --port 9999"
+  },
+  "author": "",
+  "license": "MIT"
+}
