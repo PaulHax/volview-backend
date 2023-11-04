@@ -1,0 +1,47 @@
+{
+  "layout": {
+    "activeLayout": "Axial Only"
+  },
+  "dataBrowser": {
+    "hideSampleData": false
+  },
+  "labels": {
+    "defaultLabels": {
+      "lesion": { "color": "#ff0000", "strokeWidth": 3 },
+      "tumor": { "color": "green" },
+      "innocuous": { "color": "white" }
+    },
+    "rulerLabels": {
+      "big": { "color": "#ff0000", "strokeWidth": 3 },
+      "small": { "color": "white" },
+      "long-long-long-long-long-long-long-long-long": { "color": "white" }
+    },
+    "rectangleLabels": {
+      "red": {
+        "color": "#ff0000",
+        "fillColor": "transparent",
+        "strokeWidth": 3
+      },
+      "green": {
+        "color": "green",
+        "fillColor": "transparent",
+        "strokeWidth": 2
+      },
+      "white-yellow-fill": {
+        "color": "white",
+        "fillColor": "#00ff0030"
+      }
+    },
+    "polygonLabels": {
+      "poly1": { "color": "#ff0000" },
+      "poly2Label": {
+        "color": "blue",
+        "strokeWidth": 6
+      }
+    }
+  },
+  "shortcuts": {
+    "decrementLabel": "Shift+A",
+    "incrementLabel": "t"
+  }
+}
