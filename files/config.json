@@ -3,7 +3,7 @@
     "activeLayout": "Axial Only"
   },
   "dataBrowser": {
-    "hideSampleData": false
+    "hideSampleData": true
   },
   "labels": {
     "defaultLabels": {
@@ -43,5 +43,8 @@
   "shortcuts": {
     "decrementLabel": "Shift+A",
     "incrementLabel": "t"
+  },
+  "io": {
+    "segmentGroupSaveFormat": "nrrd"
   }
 }

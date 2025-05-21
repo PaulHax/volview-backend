@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx http-server --cors --port 9999",
+    "start": "npx http-server ./files --cors --port 9999",
     "downloads": "npx http-server /home/paul/Downloads --cors --port 9999"
   },
   "author": "",
